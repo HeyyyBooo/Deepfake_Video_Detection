@@ -44,3 +44,6 @@ Collaboration among researchers, policymakers, and technology platforms
 is imperative to establish standardized detection frameworks, raise public
 awareness, and implement countermeasures to combat the growing threat of
 DeepFakes.
+
+![Screenshot (185)](https://github.com/user-attachments/assets/c3365481-ca04-4617-8781-0327f339ea89)
+
